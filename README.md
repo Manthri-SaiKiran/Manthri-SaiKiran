@@ -1,4 +1,3 @@
-.github/workflows/snake.yml
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Manthri%20Sai%20Kiran&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=ML%20Engineer%20%7C%20Google%20Partner%20Project%20%7C%20RAG%20%26%20LLM%20Systems&descAlignY=75&descSize=18&descColor=a78bfa)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🔬+Building+RAG+Pipelines+%26+LLM+Systems;🤖+ML+Engineering+Intern+%40+Google+Partner+Project;📍+Department+Topper+%40+MLRIT+Hyderabad;🚀+Open+to+AI%2FML+Engineer+Roles)](https://git.io/typing-svg)
